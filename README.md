@@ -1,7 +1,8 @@
 
-# Amigo Secreto
+## Amigo Secreto
 
 Aplicação permite usuários inserirem nomes de amigos em uma lista e depois realizar um sorteio para determinar quem é o amigo secreto.
+<a href="https://carolinasouza-dev.github.io/challenge-amigo-secreto/ target="_blank">Acesse aqui</a>
 
 Essa Aplicação faz parte do Curso da Alura "Praticando Logica de programação: Challenge amigo secreto".
 
