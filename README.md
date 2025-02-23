@@ -18,3 +18,8 @@ Esse challenge fiz participando do programa da **Oracle Next Education + Alura**
   <img loading="lazy" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white">
   <img loading="lazy" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 </div>
+
+# Screenshot ​📷​
+
+![image](https://github.com/user-attachments/assets/350c8b61-3994-4190-8098-6eb415635916)
+
